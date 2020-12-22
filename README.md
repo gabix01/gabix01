@@ -2,7 +2,7 @@
 #### Development and Design
 I'm Konrad from Poland third year student of computer science and I'm passionate about making ther world a better place by finding marriage on code and design. I loves learning about the latest technologies and finding out how to improve my craft.
 
-Skills: <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Python.svg" />PYTHON /C# /.NET /PHP / REACT / JS / HTML / CSS
+Skills: <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />PYTHON /C# /.NET /PHP / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on my own projects. 
 - 🌱 I’m currently learning Python and C# 
