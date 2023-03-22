@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Konrad
 #### Development and Design
-I'm Konrad from Poland third year student of computer science and I'm passionate about making ther world a better place by finding marriage on code and design. I loves learning about the latest technologies and finding out how to improve my craft.
+
 
 Skills: 
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
